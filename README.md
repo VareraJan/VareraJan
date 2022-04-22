@@ -13,5 +13,5 @@ My stack:
 
 Connection with me:
 
-* Telegram - https://t.me/@Valerii_Zhuravlev
+* Telegram - https://t.me/Valera_Zhuravlev
 * Email - vareraj@gmail.com
