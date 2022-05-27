@@ -17,4 +17,4 @@ Connection with me:
 * Email - vareraj@gmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VareraJan&show_icons=true&theme=radical&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VareraJan&show_icons=true&theme=radical&count_private=true)](https://github.com/VareraJan)
