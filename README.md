@@ -1,15 +1,13 @@
-<h2 align="center">Hi there!👋</h2>
-<p align="center">
+<h2 >Hi there!👋</h2>
+<p >
   <samp>Im Valerii Zhuravlev - JS developer. 😎
   </samp>
   <br> <br>
 </p>
 
-<h2 align="center">My stack</h2>
+<h2 >My stack</h2>
 
-<br><br>
-
-<!-- <div align="center"> -->
+<br>
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
   ![Html](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
@@ -29,11 +27,18 @@
   ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
   ![Jest](https://img.shields.io/badge/jest-20232A?style=for-the-badge&logo=jest&logoColor=99424F)
   ![Postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman)
+  <br><br>
   
+<h2>Connection with me</h2>
 
-<!-- </div> -->
+<br/>
 
-Connection with me:
+<p  >
+  <a target="_blank" href="mailto:vareraj@gmail.com"><img
+    src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://t.me/Valera_Zhuravlev"><img
+    src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram"/></a>&nbsp;&nbsp;&nbsp;
+</p>
 
 * Telegram - https://t.me/Valera_Zhuravlev
 * Email - vareraj@gmail.com
