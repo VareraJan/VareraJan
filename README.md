@@ -40,14 +40,6 @@
     src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-* Telegram - https://t.me/Valera_Zhuravlev
-* Email - vareraj@gmail.com
-
-
-
-
-
-
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VareraJan&show_icons=true&theme=radical&count_private=true)](https://github.com/VareraJan)
