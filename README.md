@@ -27,6 +27,7 @@
   ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
   ![Jest](https://img.shields.io/badge/jest-20232A?style=for-the-badge&logo=jest&logoColor=99424F)
   ![Postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman)
+  ![JIRA](https://img.shields.io/badge/JIRA-20232A?style=for-the-badge&logo=jira)
   <br><br>
   
 <h2>Connection with me</h2>
