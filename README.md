@@ -12,6 +12,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
   ![Html](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
   ![Css](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6)
+  ![Sass](https://img.shields.io/badge/SASS-20232A?style=for-the-badge&logo=sass)
    
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
   ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7749BD)
