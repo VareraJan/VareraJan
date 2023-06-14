@@ -10,6 +10,7 @@
 <br>
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=typescript)
   ![Html](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
   ![Css](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6)
   ![Sass](https://img.shields.io/badge/SASS-20232A?style=for-the-badge&logo=sass)
